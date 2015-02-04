@@ -1,0 +1,7 @@
+{
+  "name": "study-backbone",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
